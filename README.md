@@ -31,19 +31,13 @@ I am Abdur Rakib, currently doing B.Sc in Computer Science and Engineering from 
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-FFA800?style=flat-square&logo=tensorflow)
 ![Keras](https://img.shields.io/badge/-Keras-FF0000?style=flat-square&logo=keras)
 
-Skills: Django / Django REST / REACT / JS / HTML / CSS
 
-- 🌱 I’m currently learning React Js and Django 
-- 💬 Ask me about Web Development 
-- 📫 How to reach me: rakib15-13656@diu.edu.bd 
-
-![Profile views](https://gpvc.arturio.dev/abdurrakib01)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/abdurrakib01)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/abdur-rakib-8686a6211//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://abdur-protfolio.vercel.app/)  
+![Profile views](https://gpvc.arturio.dev/abdurrakib01) <br/>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=abdurrakib01)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdurrakib01)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=abdurrakib01&show_icons=true&count_private=true)  
+![Github Stats](https://github-readme-stats.vercel.app/api?username=abdurrakib01&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdurrakib01&hide=TeX&layout=compact)
+  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=abdurrakib01)    
