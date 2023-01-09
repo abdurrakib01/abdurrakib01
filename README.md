@@ -1,4 +1,3 @@
-![I am a competitive programmer and full stack web developer](https://media.licdn.com/dms/image/D5616AQE99aMQfdtdsg/profile-displaybackgroundimage-shrink_350_1400/0/1665809640327?e=1678924800&v=beta&t=u6yASv5rkuxBArewjWemvqgSgy7Kht2E3ZIyQrz9bsk)
 ### Hi there 👋, my name is Abdur Rakib
 #### I am a competitive programmer and full stack web developer
 ![Profile views](https://gpvc.arturio.dev/abdurrakib01)
