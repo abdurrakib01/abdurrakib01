@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Abdur Rakib
 #### I am a competitive programmer and full stack web developer
-<hr>
+
 ![Profile views](https://gpvc.arturio.dev/abdurrakib01)
 
 I am a competitive programmer. I am experienced in C/C++, Python, javascript, Django, Django REST, React Js, Git, GitHub, SQL, Mysql. Familiar with java, c# , .net, Docker. I have also work with all Machine Learning and Deep Learning Algorithms.
