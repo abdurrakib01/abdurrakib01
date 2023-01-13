@@ -3,7 +3,7 @@
 
 I am Abdur Rakib, currently doing B.Sc in Computer Science and Engineering from [The University of Daffodil International University](https://daffodilvarsity.edu.bd/). I am a passionate competitive programmer & Full Stack Web Developer. Always open to collaborating on projects and innovative ideas. Feel free to connect with me here:
 [![Linkedin Badge](https://img.shields.io/badge/-abdurrakib-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdur-rakib-8686a6211/)](https://www.linkedin.com/in/abdur-rakib-8686a6211/)
-[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-03a57a?style=flat-square&labelColor=000000&logo=Medium&logo=website)](https://abdur-protfolio.vercel.app/)
+[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-03a57a?style=flat-square&labelColor=000000&logo=Medium&logo=website)](https://abdur-portfolio.vercel.app/)
 [![Gmail Badge](https://img.shields.io/badge/-AbdurRakib-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rakib15-13656@diu.edu.bd)](mailto:rakib15-13656@diu.edu.bd)
 
 ## ⚡ Technologies & Skills
