@@ -28,6 +28,7 @@ I am Abdur Rakib, currently doing B.Sc in Computer Science and Engineering from 
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=Postman)
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-FFA800?style=flat-square&logo=tensorflow)
 ![Keras](https://img.shields.io/badge/-Keras-FF0000?style=flat-square&logo=keras)
 
