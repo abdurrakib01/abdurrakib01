@@ -30,10 +30,6 @@ I am Abdur Rakib, currently doing B.Sc in Computer Science and Engineering from 
 
 
 ![Profile views](https://gpvc.arturio.dev/abdurrakib01) <br/>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=abdurrakib01)](https://github.com/ryo-ma/github-profile-trophy)
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=abdurrakib01&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdurrakib01&hide=TeX&layout=compact)
   
 
